@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperserify",
+        "uuid": 5416684,
+        "checksum": "95napj"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
